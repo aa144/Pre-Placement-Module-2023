@@ -1,13 +1,13 @@
 # Pre-Placement-Module-2023
 
-- Name:Aakriti Mishra 
-- University Roll No.:1900290210002
-- Branch:Electrical and Electronics Enginnering
-- Section:A
+- Name: Aakriti Mishra 
+- University Roll No.: 1900290210002
+- Branch: Electrical and Electronics Enginnering
+- Section: A
 - Preferred Programming Language: C++/Python
 
 ## Coding Profiles
-- LeetCode: AKRITI_MISHRA(https://leetcode.com/aa144/)
+- LeetCode: AAKRITI_MISHRA(https://leetcode.com/aa144/)
 - HackerRank: AAKRITI_MISHRA(https://www.hackerrank.com/aakanshamishra11)
 
 ## Placement Module

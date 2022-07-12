@@ -1,10 +1,10 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name:Aakriti Mishra 
+- University Roll No.:1900290210002
+- Branch:Electrical and Electronics Enginnering
+- Section:A
+- Preferred Programming Language: C++/Python
 
 ## Coding Profiles
 - LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
